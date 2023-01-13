@@ -18,3 +18,23 @@ So if your company is too large to survey every individual, you can survey a rep
 Using 100% of a population is time-consuming and expensive. 
 
 **other terms and definitions we should know about sample**
+
+- Margin of error
+  
+  Since a sample is used to represent a population, the sample’s results are expected to differ from what the result would have been if you had surveyed the entire population. 
+  This difference is called the margin of error. 
+  The smaller the margin of error, the closer the results of the sample are to what the result would have been if you had surveyed the entire population. 
+  
+- Confidence level
+
+  How confident you are in the survey results. For example, a 95% confidence level means that if you were to run the same survey 100 times, you would get similar results 95 of those 100 times. 
+  Confidence level is targeted before you start your study because it will affect how big your margin of error is at the end of your study. 
+
+- Confidence interval
+
+  The range of possible values that the population’s result would be at the confidence level of the study. This range is the sample result +/- the margin of error.
+
+- Statistical significance
+
+  The determination of whether your result could be due to random chance or not. The greater the significance, the less due to chance.
+
