@@ -55,19 +55,28 @@ Using 100% of a population is time-consuming and expensive.
      For greater statistical significance, use a larger sample size
      
      (We can use statistical formulas to determine a sample size. )
+     (Or we have some convienent sample size calculators here: 
+        https://www.surveymonkey.com/mp/sample-size-calculator/
+        http://www.raosoft.com/samplesize.html)
      
 - Sample size will vary based on the type of business problem you are trying to solve.
 
-For example, if you live in a city with a population of 200,000 and get 180,000 people to respond to a survey, that is a large sample size. 
-But without actually doing that, what would an acceptable, smaller sample size look like? 
+  For example, if you live in a city with a population of 200,000 and get 180,000 people to respond to a survey, that is a large sample size. 
+  But without actually doing that, what would an acceptable, smaller sample size look like? 
 
-Would 200 be alright if the people surveyed represented every district in the city? 
+  Would 200 be alright if the people surveyed represented every district in the city? 
 
-Answer: It depends on the stakes. 
+  Answer: It depends on the stakes. 
 
-A sample size of 200 might be large enough if your business problem is to find out how residents felt about the new library
+  A sample size of 200 might be large enough if your business problem is to find out how residents felt about the new library
 
-A sample size of 200 might not be large enough if your business problem is to determine how residents would vote to fund the library
+  A sample size of 200 might not be large enough if your business problem is to determine how residents would vote to fund the library
 
-You could probably accept a larger margin of error surveying how residents feel about the new library versus surveying residents about how they would vote to fund it. 
-For that reason, you would most likely use a larger sample size for the voter survey.
+  You could probably accept a larger margin of error surveying how residents feel about the new library versus surveying residents about how they would vote to fund it. 
+  For that reason, you would most likely use a larger sample size for the voter survey.
+
+**Larger sample sizes have a higher cost**
+
+  You also have to weigh the cost against the benefits of more accurate results with a larger sample size. 
+  Someone who is trying to understand consumer preferences for a new line of products wouldn’t need as large a sample size as someone who is trying to understand the effects of a new drug. 
+  For drug safety, the benefits outweigh the cost of using a larger sample size. But for consumer preferences, a smaller sample size at a lower cost could provide good enough results. 
