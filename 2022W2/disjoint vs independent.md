@@ -24,8 +24,13 @@ Being a first-year student and being a sophomore are disjoint events because an 
 Question: Suppose S = {1, 2, 3}, with P({1}) = 1/2 and P({1, 2}) = 2/3. What must P({2}) and P({3}) be? 
 
 A number can have value 1, 2, or 3 according to the sample space S.
+
 That is, if it is 1, it can not be 2 or 3.
+
 So events {1}, {2}, and {3} are disjoint events.
+
 Following this understanding, we will find P({2})=P({1,2})-P({1})= 2/3-1/2= 1/6
+
 We also know the probability of the entire sample space is 1.
+
 So P({3})=1-P({1})-P({2}) or we can quickly use P({3})=1-P({1,2})=1-2/3=1/3
