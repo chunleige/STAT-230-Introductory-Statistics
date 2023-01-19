@@ -46,6 +46,7 @@ I will add more explanation and examples in the following weeks.
 **Referrence**
 
 [1] The lab material from Dr. Yas Yamin (UBCO)
+
 [2] STAT 200 Elementary Statistics, The Pennsylvania State University.
 https://online.stat.psu.edu/stat200/lesson/2/2.1/2.1.3/2.1.3.2/2.1.3.2.1#:~:text=Disjoint%20events%20and%20independent%20events,independent%20if%20they%20are%20unrelated.
 
