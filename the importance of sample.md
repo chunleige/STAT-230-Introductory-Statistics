@@ -55,6 +55,7 @@ Using 100% of a population is time-consuming and expensive.
      For greater statistical significance, use a larger sample size
      
      (We can use statistical formulas to determine a sample size. )
+     
      (Or we have some convienent sample size calculators here: 
         https://www.surveymonkey.com/mp/sample-size-calculator/
         http://www.raosoft.com/samplesize.html)
