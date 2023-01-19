@@ -17,6 +17,7 @@ In this diagram, there is no overlap between event A and event B. These two even
 ![WhatsApp Image 2023-01-19 at 11 40 24](https://user-images.githubusercontent.com/65377692/213543598-93e6c713-8fcf-426e-86a6-f6bc8d423c78.jpg)
 
 **Example**: First-Year & Sophomore Students Section
+
 Let's consider undergraduate class level. A student can be classified as a first-year student, sophomore, junior, or senior.
 
 Being a first-year student and being a sophomore are disjoint events because an individual cannot be classified as both at the same time. 
