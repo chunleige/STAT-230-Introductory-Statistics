@@ -82,4 +82,6 @@ Using 100% of a population is time-consuming and expensive.
   Someone who is trying to understand consumer preferences for a new line of products wouldn’t need as large a sample size as someone who is trying to understand the effects of a new drug. 
   For drug safety, the benefits outweigh the cost of using a larger sample size. But for consumer preferences, a smaller sample size at a lower cost could provide good enough results. 
 
-Reference: Process Data from Dirty to Clean by Google on Coursea
+**Reference**: 
+
+Process Data from Dirty to Clean by Google on Coursea
