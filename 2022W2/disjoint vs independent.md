@@ -36,3 +36,16 @@ We also know the probability of the entire sample space is 1.
 So P({3})=1-P({1})-P({2})=1-1/2-1/6=1/3
 
 or we can quickly use P({3})=1-P({1,2})=1-2/3=1/3
+
+**Independent Events**
+
+Independent events are unrelated events. The outcome of one event does not impact the outcome of the other event. Independent events can, and do often, occur together.
+
+I will add more explanation and examples in the following weeks.
+
+**Referrence**
+
+[1] The lab material from Dr. Yas Yamin (UBCO)
+[2] STAT 200 Elementary Statistics, The Pennsylvania State University.
+https://online.stat.psu.edu/stat200/lesson/2/2.1/2.1.3/2.1.3.2/2.1.3.2.1#:~:text=Disjoint%20events%20and%20independent%20events,independent%20if%20they%20are%20unrelated.
+
