@@ -43,7 +43,7 @@ Independent events are unrelated events. The outcome of one event does not impac
 
 I will add more explanation and examples in the following weeks.
 
-**Referrence**
+**Reference**
 
 [1] The lab material from Dr. Yas Yamin (UBCO)
 
