@@ -33,4 +33,6 @@ Following this understanding, we will find P({2})=P({1,2})-P({1})= 2/3-1/2= 1/6
 
 We also know the probability of the entire sample space is 1.
 
-So P({3})=1-P({1})-P({2}) or we can quickly use P({3})=1-P({1,2})=1-2/3=1/3
+So P({3})=1-P({1})-P({2})=1-1/2-1/6=1/3
+
+or we can quickly use P({3})=1-P({1,2})=1-2/3=1/3
