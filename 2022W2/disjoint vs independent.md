@@ -40,14 +40,18 @@ or we can quickly use P({3})=1-P({1,2})=1-2/3=1/3
 
 **Independent Events**
 
+One of the most important concepts in probability theory is that of “independence.” The events A and B are said to be (stochastically) independent if P(B|A) = P(B), or equivalently if P(A ⋂ B)= P(A)P(B), 
+
+comparing with the probability meaning of disjoint P(A ⋂ B) = 0
+
 Independent events are unrelated events. The outcome of one event does not impact the outcome of the other event. Independent events can, and do often, occur together.
 
-I will add more explanation and examples in the following weeks.
 
 **Reference**
 
 [1] The lab material from Dr. Yas Yamin (UBCO)
 
-[2] STAT 200 Elementary Statistics, The Pennsylvania State University.
-https://online.stat.psu.edu/stat200/lesson/2/2.1/2.1.3/2.1.3.2/2.1.3.2.1#:~:text=Disjoint%20events%20and%20independent%20events,independent%20if%20they%20are%20unrelated.
+[2] Disjoint vs. Independent Events: What’s the Difference? https://www.statology.org/disjoint-vs-independent/
 
+[3] STAT 200 Elementary Statistics, The Pennsylvania State University.
+https://online.stat.psu.edu/stat200/lesson/2/2.1/2.1.3/2.1.3.2/2.1.3.2.1#:~:text=Disjoint%20events%20and%20independent%20events,independent%20if%20they%20are%20unrelated.
